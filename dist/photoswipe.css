@@ -179,6 +179,7 @@
   text-decoration: underline; }
 
 .my-gallery {
+  padding: 0 5px;
   width: 100%;
   float: left;
 }
@@ -189,8 +190,8 @@
 .my-gallery figure {
   display: block;
   float: left;
-  margin: 0 5px 5px 0;
-  width: 150px;
+  margin: 0 10px 5px 5px;
+  width: 160px;
 }
 .my-gallery figcaption {
   display: none;
